@@ -1,2 +1,3 @@
 # hello-world
 My first repository
+I'm new to coding, or nearly new - have dabbled in html and css...
